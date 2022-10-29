@@ -1,0 +1,23 @@
+{
+  "name": "learn-react",
+  "version": "0.0.1",
+  "description": "react typescript webpacck ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "mobx"
+  ],
+  "author": "zhqsheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhqsheng/zhqsheng/issues"
+  },
+  "homepage": "https://github.com/zhqsheng/zhqsheng#readme"
+}
